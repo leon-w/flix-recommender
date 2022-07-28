@@ -1,0 +1,31 @@
+.result_item {
+    margin: 20px 0px;
+    background-color: #242424;
+    padding: 15px 25px;
+    gap: 20px;
+    margin: auto;
+    display: flex;
+    border-bottom: 1px solid #404040;
+    border-top: 1px solid #404040;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.result_item:hover {
+    background-color: #333;
+}
+
+.result_item img {
+    height: 150px;
+}
+
+.movie_name {
+    font-size: 30px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.movie_match {
+    color: #46d369;
+    font-size: 15px;
+}
