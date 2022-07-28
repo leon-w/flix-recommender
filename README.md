@@ -2,7 +2,7 @@
 
 This repository contains the source code for a simple movie recommender system with a nice frontend:
 
-
+https://user-images.githubusercontent.com/29836160/181516561-1ba1f4c2-dae9-4f40-b004-ab94fc169a2e.mov
 
 
 ## how to run
